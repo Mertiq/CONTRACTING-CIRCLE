@@ -1,6 +1,6 @@
-# SHARPENING CIRCLE
+# CONTRACTING CIRCLE
 
-This is a mobile game made with Unity Engine. In the game, you control a stickman and trying to collect coins in a circle, also the circle is sharpening.  
+This is a mobile game made with Unity Engine. In the game, you control a stickman and trying to collect coins in a circle, also the circle is contracting.  
 
 ## How to open in Unity?
 
